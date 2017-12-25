@@ -1,0 +1,12 @@
+/Users/delia/Projects/DIdemo/DIdemo/bin/Debug/netcoreapp2.0/DIdemo.deps.json
+/Users/delia/Projects/DIdemo/DIdemo/bin/Debug/netcoreapp2.0/DIdemo.runtimeconfig.json
+/Users/delia/Projects/DIdemo/DIdemo/bin/Debug/netcoreapp2.0/DIdemo.runtimeconfig.dev.json
+/Users/delia/Projects/DIdemo/DIdemo/bin/Debug/netcoreapp2.0/DIdemo.dll
+/Users/delia/Projects/DIdemo/DIdemo/bin/Debug/netcoreapp2.0/DIdemo.pdb
+/Users/delia/Projects/DIdemo/DIdemo/obj/Debug/netcoreapp2.0/DIdemo.csprojResolveAssemblyReference.cache
+/Users/delia/Projects/DIdemo/DIdemo/obj/Debug/netcoreapp2.0/DIdemo.csproj.CoreCompileInputs.cache
+/Users/delia/Projects/DIdemo/DIdemo/obj/Debug/netcoreapp2.0/DIdemo.AssemblyInfoInputs.cache
+/Users/delia/Projects/DIdemo/DIdemo/obj/Debug/netcoreapp2.0/DIdemo.AssemblyInfo.cs
+/Users/delia/Projects/DIdemo/DIdemo/obj/Debug/netcoreapp2.0/DIdemo.dll
+/Users/delia/Projects/DIdemo/DIdemo/obj/Debug/netcoreapp2.0/DIdemo.pdb
+/Users/delia/Projects/DIdemo/DIdemo/bin/Debug/netcoreapp2.0/factoryConfig.json

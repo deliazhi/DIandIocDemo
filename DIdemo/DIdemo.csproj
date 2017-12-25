@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.3" />
+    <PackageReference Include="Autofac" Version="4.6.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="class.json" />
+    <None Remove="factoryConfig.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="factoryConfig.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SetterInjection\" />
+    <Folder Include="ConstructionInjection\" />
+  </ItemGroup>
+</Project>

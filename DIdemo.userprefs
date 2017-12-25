@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F8FDAEA7-7489-4F13-B875-F54F4857A940}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DIdemo/SetterInjection/ITravelProd.cs">
+    <Files>
+      <File FileName="DIdemo/SetterInjection/CruiseTravel.cs" Line="4" Column="1" />
+      <File FileName="DIdemo/SetterInjection/DomesticTravel.cs" Line="4" Column="1" />
+      <File FileName="DIdemo/SetterInjection/OutboundTravel.cs" Line="4" Column="1" />
+      <File FileName="DIdemo/SetterInjection/TravelProd.cs" Line="4" Column="1" />
+      <File FileName="DIdemo/Program.cs" Line="54" Column="31" />
+      <File FileName="DIdemo/ConstructionInjection/TravelProduct.cs" Line="4" Column="1" />
+      <File FileName="DIdemo/ConstructionInjection/CruiseTravel.cs" Line="2" Column="39" />
+      <File FileName="DIdemo/ConstructionInjection/DomesticTravel.cs" Line="2" Column="39" />
+      <File FileName="DIdemo/ConstructionInjection/ITravelProduct.cs" Line="4" Column="28" />
+      <File FileName="DIdemo/ConstructionInjection/OutboundTravel.cs" Line="2" Column="39" />
+      <File FileName="DIdemo/IFactory.cs" Line="8" Column="22" />
+      <File FileName="DIdemo/FactoryContainer.cs" Line="10" Column="12" />
+      <File FileName="DIdemo/factoryConfig.json" Line="2" Column="16" />
+      <File FileName="DIdemo/SetterInjection/ITravelProd.cs" Line="4" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DIdemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
